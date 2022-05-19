@@ -4,7 +4,7 @@
 - :school: Studying in [Peking University](pku.edu.cn)
 - :soccer: A fan of Neymar
 - :violin: Hiphop music
-- :rocket: 2000 hours in Dota2
+- :rocket: Dota2
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=watercore1&langs_count=8&show_icons=true&locale=en&layout=compact&theme=buefy" alt="watercore1" /></p>
 
